@@ -1,0 +1,8 @@
+pinecone
+sentence-transformers
+rank-bm25
+pandas
+numpy
+tqdm
+pyarrow
+python-dotenv
